@@ -1,5 +1,9 @@
 # Javascript-Eugenio
-esse repositorio foi criado para a escola Eugênio Victorio Deliberato como teste. 
+Eugênio Victorio Deliberato
+Professor(a): Vanessa Januario
+Materia: Tecnologia
+
 
 # Introdução Javascript
+
 
